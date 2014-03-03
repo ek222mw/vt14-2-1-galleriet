@@ -1,0 +1,32 @@
+﻿body {
+}
+#BigImage {
+    height:400px;
+    width:400px;
+}
+#divWin {
+    border:solid;
+    border-width:2px;
+    border-color:black;
+    width:35%;
+}
+
+#pic {
+    overflow:scroll;
+    overflow-x:hidden;
+}
+
+#Label1 {
+    font-size:20px;
+    color:red;
+}
+#successLabel {
+    background-color:green;
+    
+}
+#successPlaceHolder {
+    border:solid;
+    border-width:2px;
+    border-color:black;
+    width:35%;
+}
